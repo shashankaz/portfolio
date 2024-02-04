@@ -12,9 +12,9 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              I am Bolby Doe, web developer from London, United Kingdom. I have
-              rich experience in web site design and building and customization,
-              also I am good at WordPress.
+              I am Shashank, web developer from Patna, India. I have rich
+              experience in web site design and building and customization, also
+              I am good at WordPress.
             </p>
             <a href="" className="btn">
               Download CV
@@ -23,29 +23,29 @@ const About = () => {
           <div className="about__skills grid">
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">Development</h3>
-                <span className="skills__number">90%</span>
+                <h3 className="skills__name">React Js</h3>
+                <span className="skills__number">50%</span>
               </div>
               <div className="skills__bar">
-                <span className="skills__percentage development"></span>
+                <span className="skills__percentage react__js"></span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">UI/UX Design</h3>
-                <span className="skills__number">80%</span>
+                <h3 className="skills__name">Tailwind</h3>
+                <span className="skills__number">70%</span>
               </div>
               <div className="skills__bar">
-                <span className="skills__percentage ui__design"></span>
+                <span className="skills__percentage tailwind"></span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">Photography</h3>
+                <h3 className="skills__name">Backend</h3>
                 <span className="skills__number">60%</span>
               </div>
               <div className="skills__bar">
-                <span className="skills__percentage photography"></span>
+                <span className="skills__percentage backend"></span>
               </div>
             </div>
           </div>
